@@ -1,0 +1,89 @@
+
+body {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Card Design */
+.custom-card {
+  border: none;
+  border-radius: 15px;
+  padding: 20px;
+  background: #c57fcb;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  transition: 0.3s ease;
+}
+
+.custom-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Title1 */
+
+.title {
+  font-weight: 600;
+   background: #2704ee;
+  color: white;
+  text-align: center;
+  padding: 10px;
+   
+}
+
+/* List Items */
+.list-item {
+  padding: 12px 15px;
+  border-bottom: 1px solid #eee;
+  transition: 0.3s;
+  border-radius: 8px;
+  color: black;
+}
+
+.list-item:hover {
+  background: #fdfeff;
+  transform: scale(1.02);
+}
+// =============== Programming Languages =================//
+
+
+
+/* Title2 */
+.title2{
+    font-weight: 600;
+   padding: 10px;
+    background: forestgreen;
+    text-align: center;
+}
+
+
+.title3{
+    font-weight: 600;
+   padding: 10px;
+    background: rgb(92, 212, 223);
+    text-align: center;
+}
+
+
+.title4{
+    font-weight: 600;
+   padding: 10px;
+    background: rgb(131, 59, 207);
+    text-align: center;
+}
+
+.title5{
+    font-weight: 600;
+   padding: 10px;
+    background: rgb(224, 249, 66);
+    text-align: center;
+}
+
+.title6{
+    font-weight: 600;
+   padding: 10px;
+    background: rgb(148, 19, 90);
+    text-align: center;
+}
+
+
+
